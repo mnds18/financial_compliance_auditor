@@ -73,18 +73,22 @@ financial_compliance_auditor/
 
 ```
 
-🖼️ Demo Screenshot
+## 🖼️ Demo Screenshot
 ![Demo](demo/demo_screnshot_1.jpg)
 
-📽️ Video Demo
+## 📽️ Video Demo
 🎥 Watch the 30-sec app demo — (https://tinyurl.com/appdemomrig)
 
-🤝 Connect with Me
+## ✍️ Author
 Mrig Debsarma
 💼 Data Science & AI | Financial Services
 📍 Sydney, Australia
 📧 LinkedIn : https://www.linkedin.com/in/mrigendranath/
 
-⭐ If you liked this project...
+## 📢 License
+
+MIT — Free to reuse and adapt with attribution.
+
+## ⭐ If you liked this project...
 Please ⭐️ the repo and share feedback!
-Helps me connect with people hiring in AI/ML, LLMs, and analytics in Australia and globally.
+Helps me connect with people in AI/ML, LLMs, and analytics in Australia and globally.
