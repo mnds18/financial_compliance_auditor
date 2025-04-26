@@ -1,0 +1,12 @@
+
+    Policy Topic: Employment status proof
+
+    Details:
+    - Clients must provide proof of address no older than 3 months.
+    - Minimum income for premium products: $75,000/year.
+    - Self-employed clients must provide 2 years of tax returns.
+    - IDs must be government-issued and unexpired.
+    - Clients flagged as High-Risk must undergo Enhanced Due Diligence.
+    - All PEPs must be reported to the compliance team.
+    - AML reports must be filed for transactions above $10,000.
+    

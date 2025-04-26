@@ -1,0 +1,15 @@
+openai
+langchain
+chromadb
+faiss-cpu
+sentence-transformers
+opencv-python
+pytesseract
+streamlit
+pandas
+scikit-learn
+matplotlib
+mlflow
+python-dotenv
+PyMuPDF
+faker

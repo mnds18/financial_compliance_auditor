@@ -1,0 +1,18 @@
+The compliance check for Kimberly Young has been completed. Here are the key findings:
+
+1. **Proof of Address:** Not provided, leading to non-compliance.
+2. **Minimum Income for Premium Products:** The income is below the required threshold of $75,000/year, resulting in non-compliance.
+3. **Self-employed Documentation:** Tax returns for 2 years are not provided, leading to non-compliance.
+4. **ID Requirements:** The expiration status of the ID is not specified, which is a potential non-compliance issue.
+5. **High-Risk and PEP Status:** No information provided, leading to potential non-compliance.
+
+**Compliance Score:** 3/10
+
+**Recommendations:**
+- Obtain proof of address within the last 3 months.
+- Verify and document the expiration status of the ID.
+- Collect 2 years of tax returns for self-employment verification.
+- Assess and document High-Risk and PEP status.
+- Consider income limitations for product eligibility.
+
+Please address these areas to improve compliance.

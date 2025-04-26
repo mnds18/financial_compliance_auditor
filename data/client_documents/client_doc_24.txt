@@ -1,0 +1,9 @@
+
+    Client Name: John Perez
+    Date of Birth: 1975-02-08
+    Address: 38562 Johnson Spur
+South Kristen, ME 03177
+    Income: $71997
+    Employment Status: Employed
+    ID Number: 691-96-2299
+    
