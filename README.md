@@ -71,6 +71,8 @@ financial_compliance_auditor/
 ├── .env                     # Store OpenAI key here
 └── README.md
 
+```
+
 🖼️ Demo Screenshot
 ![Demo](demo/demo_screnshot_1.jpg)
 
